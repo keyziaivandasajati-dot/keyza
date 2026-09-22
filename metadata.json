@@ -1,0 +1,6 @@
+{
+  "name": "Midnight at Room 13",
+  "description": "Visual Novel Misteri Komedi Survival di motel tua pada pukul 02:13 AM dengan percabangan cerita interaktif dan 14 ending unik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
